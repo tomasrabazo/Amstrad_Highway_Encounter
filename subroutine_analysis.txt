@@ -1,0 +1,1516 @@
+Z80A Assembly Code Subroutine Analysis
+============================================================
+
+Total lines in file: 54,635
+Total subroutines called: 220
+
+============================================================
+
+Subroutine L0000:
+  Start line: 4
+  End line: Unknown
+  Called from: 11 location(s)
+  Call sites (sample): 155, 11735, 11844, 12912, 13054, ... (6 more)
+
+Subroutine L0011:
+  Start line: 32
+  End line: Unknown
+  Called from: 3 location(s)
+  Call sites (sample): 40629, 44329, 46187
+
+Subroutine L0012:
+  Start line: 34
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 18781
+
+Subroutine L001F:
+  Start line: 55
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 26096, 26249
+
+Subroutine L0020:
+  Start line: 57
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 11731
+
+Subroutine L003B:
+  Start line: 91
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 39172
+
+Subroutine L0070:
+  Start line: 147
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 133
+
+Subroutine L0078:
+  Start line: 157
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 490, 4972
+
+Subroutine L00B1:
+  Start line: 204
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 39138
+
+Subroutine L00F8:
+  Start line: 270
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 2242
+
+Subroutine L00FF:
+  Start line: 281
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 11895
+
+Subroutine L0101:
+  Start line: 285
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 14391
+
+Subroutine L0205:
+  Start line: 475
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 6627
+
+Subroutine L0320:
+  Start line: 636
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 14594
+
+Subroutine L03F3:
+  Start line: 815
+  End line: Unknown
+  Called from: 11 location(s)
+  Call sites (sample): 850, 870, 875, 880, 883, ... (6 more)
+
+Subroutine L03FF:
+  Start line: 824
+  End line: Unknown
+  Called from: 4 location(s)
+  Call sites (sample): 843, 858, 6521, 6534
+
+Subroutine L0400:
+  Start line: 827
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 18425
+
+Subroutine L0411:
+  Start line: 842
+  End line: Unknown
+  Called from: 8 location(s)
+  Call sites (sample): 1210, 1276, 2605, 4856, 6275, ... (3 more)
+
+Subroutine L0426:
+  Start line: 857
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 2783, 6278
+
+Subroutine L0440:
+  Start line: 871
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 14589
+
+Subroutine L0470:
+  Start line: 911
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 14584
+
+Subroutine L04A5:
+  Start line: 965
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 6640
+
+
+--- Subroutines in lines 01000-02000 ---
+
+Subroutine L0660:
+  Start line: 1183
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 16708
+
+Subroutine L06E1:
+  Start line: 1275
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 971, 1060
+
+Subroutine L06FA:
+  Start line: 1286
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 2248
+
+Subroutine L07D9:
+  Start line: 1471
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 1163
+
+Subroutine L0810:
+  Start line: 1506
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 33485
+
+Subroutine L0923:
+  Start line: 1744
+  End line: Unknown
+  Called from: 4 location(s)
+  Call sites (sample): 670, 3928, 4860, 5014
+
+Subroutine L094A:
+  Start line: 1763
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 4956
+
+Subroutine L09E9:
+  Start line: 1869
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 1861, 1867
+
+Subroutine L0A60:
+  Start line: 1948
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 16719
+
+Subroutine L0A96:
+  Start line: 1978
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 4859
+
+
+
+--- Subroutines in lines 02000-03000 ---
+
+Subroutine L0C02:
+  Start line: 2222
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 14621
+
+Subroutine L0C6E:
+  Start line: 2306
+  End line: Unknown
+  Called from: 4 location(s)
+  Call sites (sample): 671, 3929, 4861, 5015
+
+Subroutine L0CA5:
+  Start line: 2336
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 2332, 2334
+
+Subroutine L0E00:
+  Start line: 2563
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 2274, 18438
+
+Subroutine L0E03:
+  Start line: 2565
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 2604, 6277
+
+Subroutine L0F00:
+  Start line: 2733
+  End line: Unknown
+  Called from: 14 location(s)
+  Call sites (sample): 22035, 22038, 22056, 25083, 26076, ... (9 more)
+
+Subroutine L0F62:
+  Start line: 2788
+  End line: Unknown
+  Called from: 3 location(s)
+  Call sites (sample): 538, 4962, 6082
+
+Subroutine L0F9A:
+  Start line: 2832
+  End line: Unknown
+  Called from: 3 location(s)
+  Call sites (sample): 541, 4965, 6086
+
+Subroutine L1000:
+  Start line: 2890
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 17865, 18314
+
+Subroutine L1012:
+  Start line: 2908
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 18739
+
+Subroutine L1073:
+  Start line: 2969
+  End line: Unknown
+  Called from: 5 location(s)
+  Call sites (sample): 2967, 5489, 6476, 7235, 7428
+
+
+
+--- Subroutines in lines 03000-04000 ---
+
+Subroutine L1100:
+  Start line: 3078
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 49709, 51409
+
+Subroutine L1111:
+  Start line: 3097
+  End line: Unknown
+  Called from: 5 location(s)
+  Call sites (sample): 2955, 5475, 6488, 7247, 7431
+
+Subroutine L1166:
+  Start line: 3165
+  End line: Unknown
+  Called from: 4 location(s)
+  Call sites (sample): 2959, 5479, 6484, 7243
+
+Subroutine L1177:
+  Start line: 3181
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 49633
+
+Subroutine L11B0:
+  Start line: 3234
+  End line: Unknown
+  Called from: 8 location(s)
+  Call sites (sample): 2963, 5485, 6480, 7239, 7416, ... (3 more)
+
+Subroutine L11DB:
+  Start line: 3276
+  End line: Unknown
+  Called from: 7 location(s)
+  Call sites (sample): 542, 672, 2782, 4862, 4966, ... (2 more)
+
+Subroutine L1200:
+  Start line: 3309
+  End line: Unknown
+  Called from: 3 location(s)
+  Call sites (sample): 16785, 17799, 18448
+
+Subroutine L1326:
+  Start line: 3479
+  End line: Unknown
+  Called from: 3 location(s)
+  Call sites (sample): 3393, 3403, 3410
+
+Subroutine L1338:
+  Start line: 3490
+  End line: Unknown
+  Called from: 57 location(s)
+  Call sites (sample): 3361, 3364, 3369, 3372, 3388, ... (52 more)
+
+Subroutine L1400:
+  Start line: 3628
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 17689
+
+Subroutine L148A:
+  Start line: 3733
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 6859
+
+Subroutine L1529:
+  Start line: 3880
+  End line: Unknown
+  Called from: 3 location(s)
+  Call sites (sample): 2781, 6948, 7020
+
+Subroutine L1549:
+  Start line: 3896
+  End line: Unknown
+  Called from: 3 location(s)
+  Call sites (sample): 540, 4964, 6085
+
+
+
+--- Subroutines in lines 04000-05000 ---
+
+Subroutine L190E:
+  Start line: 4427
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 18282
+
+Subroutine L191D:
+  Start line: 4436
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 539
+
+Subroutine L199B:
+  Start line: 4499
+  End line: Unknown
+  Called from: 3 location(s)
+  Call sites (sample): 4596, 4609, 4622
+
+Subroutine L19CA:
+  Start line: 4535
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 4963
+
+Subroutine L1AB4:
+  Start line: 4689
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 6083
+
+Subroutine L1B2C:
+  Start line: 4773
+  End line: Unknown
+  Called from: 7 location(s)
+  Call sites (sample): 3436, 4089, 4106, 4412, 4417, ... (2 more)
+
+Subroutine L1B4F:
+  Start line: 4802
+  End line: Unknown
+  Called from: 38 location(s)
+  Call sites (sample): 496, 499, 514, 527, 531, ... (33 more)
+
+Subroutine L1B96:
+  Start line: 4851
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 493, 4992
+
+Subroutine L1C00:
+  Start line: 4900
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 17454, 17948
+
+Subroutine L1C10:
+  Start line: 4910
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 18641
+
+Subroutine L1C62:
+  Start line: 4958
+  End line: Unknown
+  Called from: 15 location(s)
+  Call sites (sample): 4873, 4877, 4884, 4888, 4894, ... (10 more)
+
+Subroutine L1C7C:
+  Start line: 4971
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 6614
+
+
+
+--- Subroutines in lines 05000-06000 ---
+
+Subroutine L1D4E:
+  Start line: 5098
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 4857
+
+Subroutine L1D9B:
+  Start line: 5146
+  End line: Unknown
+  Called from: 4 location(s)
+  Call sites (sample): 3651, 4280, 4328, 5577
+
+Subroutine L1DB2:
+  Start line: 5163
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 5142
+
+Subroutine L1DB8:
+  Start line: 5166
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 1315
+
+Subroutine L1E33:
+  Start line: 5255
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 6639
+
+Subroutine L1E5B:
+  Start line: 5282
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 5143
+
+Subroutine L1F00:
+  Start line: 5404
+  End line: Unknown
+  Called from: 29 location(s)
+  Call sites (sample): 20935, 21806, 21810, 21812, 21821, ... (24 more)
+
+Subroutine L1F1C:
+  Start line: 5428
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 23213
+
+Subroutine L208B:
+  Start line: 5647
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 5639, 5641
+
+Subroutine L2200:
+  Start line: 5880
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 29273
+
+Subroutine L2242:
+  Start line: 5928
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 35556
+
+
+
+--- Subroutines in lines 06000-07000 ---
+
+Subroutine L231C:
+  Start line: 6081
+  End line: Unknown
+  Called from: 7 location(s)
+  Call sites (sample): 5021, 5706, 5718, 5730, 5922, ... (2 more)
+
+Subroutine L24B2:
+  Start line: 6280
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 6276
+
+Subroutine L24E9:
+  Start line: 6320
+  End line: Unknown
+  Called from: 3 location(s)
+  Call sites (sample): 6143, 6218, 6250
+
+Subroutine L24F5:
+  Start line: 6326
+  End line: Unknown
+  Called from: 3 location(s)
+  Call sites (sample): 6153, 6228, 6259
+
+Subroutine L251D:
+  Start line: 6355
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 6213, 6267
+
+Subroutine L254A:
+  Start line: 6395
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 6214, 6268
+
+Subroutine L25AD:
+  Start line: 6460
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 6334, 6363
+
+Subroutine L260F:
+  Start line: 6520
+  End line: Unknown
+  Called from: 4 location(s)
+  Call sites (sample): 972, 1063, 6541, 7436
+
+Subroutine L2765:
+  Start line: 6694
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 6672, 6690
+
+Subroutine L2800:
+  Start line: 6809
+  End line: Unknown
+  Called from: 4 location(s)
+  Call sites (sample): 16806, 18258, 18577, 19061
+
+Subroutine L280B:
+  Start line: 6819
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 18230
+
+Subroutine L289F:
+  Start line: 6947
+  End line: Unknown
+  Called from: 3 location(s)
+  Call sites (sample): 1283, 6537, 7413
+
+
+
+--- Subroutines in lines 07000-08000 ---
+
+Subroutine L292A:
+  Start line: 7019
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 6542
+
+Subroutine L29BE:
+  Start line: 7094
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 7092
+
+Subroutine L29E9:
+  Start line: 7130
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 7017, 7432
+
+Subroutine L2A21:
+  Start line: 7172
+  End line: Unknown
+  Called from: 10 location(s)
+  Call sites (sample): 7064, 7067, 7070, 7073, 7076, ... (5 more)
+
+Subroutine L2A64:
+  Start line: 7203
+  End line: Unknown
+  Called from: 3 location(s)
+  Call sites (sample): 7175, 7178, 7181
+
+Subroutine L2A70:
+  Start line: 7212
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 7184
+
+Subroutine L2B1F:
+  Start line: 7348
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 7275
+
+Subroutine L2BD9:
+  Start line: 7446
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 7433
+
+
+
+--- Subroutines in lines 08000-09000 ---
+
+Subroutine L2EE3:
+  Start line: 8156
+  End line: Unknown
+  Called from: 14 location(s)
+  Call sites (sample): 506, 518, 1062, 1205, 1287, ... (9 more)
+
+Subroutine L2EE9:
+  Start line: 8163
+  End line: Unknown
+  Called from: 7 location(s)
+  Call sites (sample): 1079, 1086, 1114, 1121, 1148, ... (2 more)
+
+Subroutine L2F90:
+  Start line: 8282
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 4858
+
+Subroutine L2FED:
+  Start line: 8337
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 6545
+
+Subroutine L3049:
+  Start line: 8396
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 1284
+
+Subroutine L3099:
+  Start line: 8445
+  End line: Unknown
+  Called from: 6 location(s)
+  Call sites (sample): 8400, 8404, 8409, 8733, 8737, ... (1 more)
+
+Subroutine L3200:
+  Start line: 8724
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 17811, 18339
+
+
+
+--- Subroutines in lines 09000-10000 ---
+
+Subroutine L3400:
+  Start line: 9141
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 17702, 18290
+
+Subroutine L3600:
+  Start line: 9627
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 16816
+
+
+
+--- Subroutines in lines 10000-11000 ---
+
+Subroutine L3800:
+  Start line: 10085
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 16713
+
+Subroutine L3A00:
+  Start line: 10561
+  End line: Unknown
+  Called from: 3 location(s)
+  Call sites (sample): 18349, 18361, 19031
+
+
+
+--- Subroutines in lines 11000-12000 ---
+
+Subroutine L3C00:
+  Start line: 11033
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 17069, 19045
+
+Subroutine L3C03:
+  Start line: 11037
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 16889
+
+Subroutine L3CB3:
+  Start line: 11202
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 38168
+
+Subroutine L3F00:
+  Start line: 11702
+  End line: Unknown
+  Called from: 64 location(s)
+  Call sites (sample): 20873, 20941, 20991, 21001, 21114, ... (59 more)
+
+Subroutine L3F7E:
+  Start line: 11805
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 23217
+
+Subroutine L3FFE:
+  Start line: 11914
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 23221
+
+Subroutine L4000:
+  Start line: 11917
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 16724, 17108
+
+Subroutine L4001:
+  Start line: 11919
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 16796
+
+Subroutine L4008:
+  Start line: 11927
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 17756
+
+
+
+--- Subroutines in lines 12000-13000 ---
+
+Subroutine L40C0:
+  Start line: 12098
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 6048
+
+Subroutine L4400:
+  Start line: 12825
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 18302
+
+Subroutine L440E:
+  Start line: 12839
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 18291
+
+Subroutine L4444:
+  Start line: 12885
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 14280
+
+Subroutine L4484:
+  Start line: 12934
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 6038
+
+Subroutine L44DF:
+  Start line: 12999
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 6037
+
+
+
+--- Subroutines in lines 13000-14000 ---
+
+Subroutine L4800:
+  Start line: 13710
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 16744, 17122
+
+Subroutine L4808:
+  Start line: 13719
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 17391
+
+
+
+--- Subroutines in lines 14000-15000 ---
+
+Subroutine L4B00:
+  Start line: 14346
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 40480
+
+
+
+--- Subroutines in lines 15000-16000 ---
+
+Subroutine L5151:
+  Start line: 15637
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 6060
+
+
+
+--- Subroutines in lines 16000-17000 ---
+
+Subroutine L556C:
+  Start line: 16549
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 7775
+
+Subroutine L55BC:
+  Start line: 16631
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 7801
+
+
+
+--- Subroutines in lines 19000-20000 ---
+
+Subroutine L647E:
+  Start line: 19744
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 34902
+
+
+
+--- Subroutines in lines 20000-21000 ---
+
+Subroutine L6604:
+  Start line: 20100
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 35255
+
+Subroutine L6622:
+  Start line: 20132
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 34567
+
+Subroutine L6700:
+  Start line: 20359
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 12858
+
+Subroutine L6802:
+  Start line: 20622
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 18343
+
+
+
+--- Subroutines in lines 24000-25000 ---
+
+Subroutine L7777:
+  Start line: 24052
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 49556
+
+Subroutine L77FF:
+  Start line: 24162
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 51403
+
+
+
+--- Subroutines in lines 25000-26000 ---
+
+Subroutine L7D5E:
+  Start line: 25347
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 14631
+
+Subroutine L7F00:
+  Start line: 25749
+  End line: Unknown
+  Called from: 18 location(s)
+  Call sites (sample): 20937, 20943, 22243, 22279, 23076, ... (13 more)
+
+Subroutine L7F05:
+  Start line: 25755
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 12609
+
+Subroutine L7FFD:
+  Start line: 25989
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 12888
+
+
+
+--- Subroutines in lines 26000-27000 ---
+
+Subroutine L8100:
+  Start line: 26250
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 12876
+
+
+
+--- Subroutines in lines 27000-28000 ---
+
+Subroutine L8609:
+  Start line: 27405
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 11976
+
+
+
+--- Subroutines in lines 28000-29000 ---
+
+Subroutine L8A1C:
+  Start line: 28328
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 8009
+
+Subroutine L8A94:
+  Start line: 28443
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 8040
+
+
+
+--- Subroutines in lines 31000-32000 ---
+
+Subroutine L970A:
+  Start line: 31329
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 17966
+
+Subroutine L9910:
+  Start line: 31789
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 18621
+
+Subroutine L9933:
+  Start line: 31828
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 51249
+
+
+
+--- Subroutines in lines 32000-33000 ---
+
+Subroutine L9A00:
+  Start line: 32040
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 2288
+
+Subroutine L9B10:
+  Start line: 32316
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 18580, 18611
+
+Subroutine L9D10:
+  Start line: 32831
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 18590, 18601
+
+
+
+--- Subroutines in lines 33000-34000 ---
+
+Subroutine LA07F:
+  Start line: 33651
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 14771
+
+
+
+--- Subroutines in lines 35000-36000 ---
+
+Subroutine LAABB:
+  Start line: 35733
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 29286
+
+Subroutine LAADA:
+  Start line: 35758
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 12274
+
+Subroutine LAAEA:
+  Start line: 35771
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 12489
+
+Subroutine LAAFF:
+  Start line: 35785
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 29284
+
+Subroutine LAC00:
+  Start line: 35996
+  End line: Unknown
+  Called from: 3 location(s)
+  Call sites (sample): 38913, 39036, 39508
+
+
+
+--- Subroutines in lines 39000-40000 ---
+
+Subroutine LB9A8:
+  Start line: 39211
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 39199, 39280
+
+Subroutine LBA3E:
+  Start line: 39330
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 39331
+
+Subroutine LBA5E:
+  Start line: 39357
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 39387
+
+Subroutine LBA72:
+  Start line: 39375
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 39397
+
+Subroutine LBA7E:
+  Start line: 39386
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 39391
+
+Subroutine LBAB2:
+  Start line: 39423
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 39416, 39420
+
+Subroutine LBAC7:
+  Start line: 39439
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 39431
+
+Subroutine LBB46:
+  Start line: 39533
+  End line: Unknown
+  Called from: 11 location(s)
+  Call sites (sample): 39571, 39581, 39586, 39594, 39606, ... (6 more)
+
+Subroutine LBB67:
+  Start line: 39560
+  End line: Unknown
+  Called from: 3 location(s)
+  Call sites (sample): 39698, 39843, 39847
+
+Subroutine LBC4C:
+  Start line: 39697
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 39840
+
+Subroutine LBC7A:
+  Start line: 39728
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 9123
+
+Subroutine LBC8F:
+  Start line: 39746
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 9144
+
+Subroutine LBC98:
+  Start line: 39754
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 9142
+
+Subroutine LBD03:
+  Start line: 39836
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 16913
+
+
+
+--- Subroutines in lines 40000-41000 ---
+
+Subroutine LBE93:
+  Start line: 40155
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 3685
+
+Subroutine LBEB1:
+  Start line: 40186
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 3680
+
+Subroutine LBECF:
+  Start line: 40217
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 3675
+
+Subroutine LC000:
+  Start line: 40509
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 12890, 12970
+
+Subroutine LC1E0:
+  Start line: 40972
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 6824
+
+
+
+--- Subroutines in lines 41000-42000 ---
+
+Subroutine LC465:
+  Start line: 41533
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 49, 97
+
+Subroutine LC4C4:
+  Start line: 41617
+  End line: Unknown
+  Called from: 5 location(s)
+  Call sites (sample): 14191, 14194, 14339, 14343, 14353
+
+Subroutine LC5C8:
+  Start line: 41862
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 1248
+
+
+
+--- Subroutines in lines 42000-43000 ---
+
+Subroutine LC8C6:
+  Start line: 42611
+  End line: Unknown
+  Called from: 4 location(s)
+  Call sites (sample): 14208, 14410, 14422, 14436
+
+
+
+--- Subroutines in lines 43000-44000 ---
+
+Subroutine LCC22:
+  Start line: 43276
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 30351
+
+Subroutine LCC66:
+  Start line: 43331
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 46312
+
+Subroutine LCCEE:
+  Start line: 43436
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 40703
+
+
+
+--- Subroutines in lines 46000-47000 ---
+
+Subroutine LDD00:
+  Start line: 46963
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 42805
+
+
+
+--- Subroutines in lines 47000-48000 ---
+
+Subroutine LDF17:
+  Start line: 47382
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 6056
+
+Subroutine LE0A6:
+  Start line: 47778
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 17202
+
+Subroutine LE0A9:
+  Start line: 47782
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 17229
+
+
+
+--- Subroutines in lines 48000-49000 ---
+
+Subroutine LE315:
+  Start line: 48333
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 14355
+
+
+
+--- Subroutines in lines 49000-50000 ---
+
+Subroutine LE839:
+  Start line: 49519
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 18220
+
+
+
+--- Subroutines in lines 50000-51000 ---
+
+Subroutine LEDEF:
+  Start line: 50630
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 14192
+
+Subroutine LEF37:
+  Start line: 50875
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 39973
+
+
+
+--- Subroutines in lines 51000-52000 ---
+
+Subroutine LF000:
+  Start line: 51080
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 24868
+
+Subroutine LF0F8:
+  Start line: 51313
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 2183
+
+
+
+--- Subroutines in lines 52000-53000 ---
+
+Subroutine LF416:
+  Start line: 52005
+  End line: Unknown
+  Called from: 5 location(s)
+  Call sites (sample): 402, 441, 446, 449, 452
+
+Subroutine LF5EF:
+  Start line: 52411
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 14354
+
+Subroutine LF6FA:
+  Start line: 52653
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 2179
+
+Subroutine LF800:
+  Start line: 52916
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 24548
+
+Subroutine LF820:
+  Start line: 52952
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 24620
+
+
+
+--- Subroutines in lines 53000-54000 ---
+
+Subroutine LF8C0:
+  Start line: 53098
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 25546
+
+Subroutine LF8FF:
+  Start line: 53160
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 11779
+
+Subroutine LFB05:
+  Start line: 53572
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 17457
+
+Subroutine LFC0F:
+  Start line: 53766
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 12322
+
+Subroutine LFC3F:
+  Start line: 53802
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 14570
+
+Subroutine LFD05:
+  Start line: 53962
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 17444, 17469
+
+
+
+--- Subroutines in lines 54000-55000 ---
+
+Subroutine LFE02:
+  Start line: 54153
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 17006
+
+Subroutine LFE13:
+  Start line: 54167
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 19242
+
+Subroutine LFE14:
+  Start line: 54169
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 19062
+
+Subroutine LFF00:
+  Start line: 54351
+  End line: Unknown
+  Called from: 10 location(s)
+  Call sites (sample): 23771, 23773, 24164, 24276, 24931, ... (5 more)
+
+Subroutine LFF01:
+  Start line: 54353
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 24278, 24601
+
+Subroutine LFF03:
+  Start line: 54357
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 24846
+
+Subroutine LFF0F:
+  Start line: 54371
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 24716, 26025
+
+Subroutine LFF4A:
+  Start line: 54432
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 8067
+
+Subroutine LFF4F:
+  Start line: 54438
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 14799
+
+Subroutine LFF5F:
+  Start line: 54455
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 14804
+
+Subroutine LFF7F:
+  Start line: 54489
+  End line: Unknown
+  Called from: 2 location(s)
+  Call sites (sample): 14832, 26021
+
+Subroutine LFFA0:
+  Start line: 54525
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 11849
+
+Subroutine LFFE0:
+  Start line: 54598
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 11741
+
+Subroutine LFFE1:
+  Start line: 54600
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 26355
+
+Subroutine LFFFC:
+  Start line: 54631
+  End line: Unknown
+  Called from: 1 location(s)
+  Call sites (sample): 11880
+
+
+============================================================
+Most Frequently Called Subroutines
+============================================================
+
+L3F00: 64 calls (starts at line 11702)
+L1338: 57 calls (starts at line 3490)
+L1B4F: 38 calls (starts at line 4802)
+L1F00: 29 calls (starts at line 5404)
+L7F00: 18 calls (starts at line 25749)
+L1C62: 15 calls (starts at line 4958)
+L0F00: 14 calls (starts at line 2733)
+L2EE3: 14 calls (starts at line 8156)
+L0000: 11 calls (starts at line 4)
+L03F3: 11 calls (starts at line 815)
+LBB46: 11 calls (starts at line 39533)
+L2A21: 10 calls (starts at line 7172)
+LFF00: 10 calls (starts at line 54351)
+L0411: 8 calls (starts at line 842)
+L11B0: 8 calls (starts at line 3234)
+L11DB: 7 calls (starts at line 3276)
+L1B2C: 7 calls (starts at line 4773)
+L231C: 7 calls (starts at line 6081)
+L2EE9: 7 calls (starts at line 8163)
+L3099: 6 calls (starts at line 8445)
